@@ -11,6 +11,18 @@ This JavaScript script automates the removal of all "Saved for Later" items on A
 
 ---
 
+## Screenshots
+
+<img src="IMG_2708.png" width="300"/>
+
+---
+
+## Screen Recording
+
+[Watch the screen recording](ScreenRecording_01-04-2025%2003-07-57_1.mov)
+
+---
+
 ## Instructions
 
 ### Using the Script on Desktop
