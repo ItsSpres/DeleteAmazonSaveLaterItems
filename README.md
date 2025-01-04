@@ -1,4 +1,3 @@
-# DeleteAmazonSaveLaterItems
 # Amazon Saved Items Remover
 
 This JavaScript script automates the removal of all "Saved for Later" items on Amazon's cart page. It iterates through each visible item, clicking the "Delete" button until no items remain.  
